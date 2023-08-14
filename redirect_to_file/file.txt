@@ -1,0 +1,2 @@
+Hello Bash!
+This is a test run 
